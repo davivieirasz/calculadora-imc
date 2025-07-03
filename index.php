@@ -41,9 +41,5 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     }
 }
 ?>
-    <br>
-    <br>
-    <br>
-    <br>
 </body>
 </html>
