@@ -1,0 +1,50 @@
+html{
+    position: fixed;
+}
+.titulo{
+    text-align: center;
+}
+.formulario{
+    text-align: center;
+}
+.containerphp{
+    text-align: center;
+}
+.containerIMC{
+    width: 600px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    transform: translate(-50%, -50%);
+    background-color: rgba(139, 139, 139, 0.556);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 50px;
+}
+body{
+    background-color: rgb(253, 215, 190);
+}
+.logo{
+    border-radius: 100px;
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+}
+.wallpaper{
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
+header{
+    display: flex
+}
+h3{
+    color:rgb(0, 0, 0);
+    border: white;
+}
