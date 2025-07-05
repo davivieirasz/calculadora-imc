@@ -52,7 +52,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 <br>
 </div>
 </div>
-<!--<footer><p>&copy; 2025 Todos os direitos reservados | Desenvolvido por Davi Vieira de Souza</p></footer>-->
+<footer><p>&copy; 2025 Todos os direitos reservados | Desenvolvido por Davi Vieira de Souza</p></footer>
 <script src="assets/script.js"></script>
 </body>
 </html>

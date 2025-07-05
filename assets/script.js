@@ -1,3 +1,3 @@
 function limparTela(){
-    window.location.href = "http://localhost/ProjetosVScode/calculadoraimc/index.php";
+    window.location.href = "http://localhost/ProjetosVScode/calculadora_imc/index.php";
 }
