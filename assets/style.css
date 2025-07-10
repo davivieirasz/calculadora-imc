@@ -58,3 +58,15 @@ button{
     padding: 15px;
     transition: border .3s ease-in-out;
 }
+.name{
+    font-family: "Colonna MT";
+}
+.titulo{
+    font-family: "Jokerman";
+}
+h2{
+    font-family: "Elephant";
+}
+footer{
+    font-family: "Bauhaus 93";
+}
