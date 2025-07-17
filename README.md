@@ -73,7 +73,7 @@ Este é um projeto simples de uma **Calculadora de IMC (Índice de Massa Corpora
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑🏻‍💻 Autor
 
 Desenvolvido por **Davi Vieira de Souza**  
 📫 [LinkedIn](https://www.linkedin.com/in/davivieiraa)  
